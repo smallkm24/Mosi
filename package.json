@@ -1,0 +1,1 @@
+{"name": "Mosi", "private": true, "workspaces": ["client/*", "server/*"]}
